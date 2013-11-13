@@ -1,0 +1,18 @@
+Summary: This is a simple Python module that retrieves a crontab file and
+translates each crontab line into an English representation of that line.
+
+ For example:
+ 03 12 * 4 * echo "Hello World!" >> test.txt 
+
+ would translate into:
+ "The command will append the text "Hello World!" into test.txt at 12:03 PM everyday of the week starting April."
+
+Current Tasks:
+1)
+2)
+3)
+
+Feel free to contribute or give some suggestions :D.
+
+Author: Kenny Chong
+Date: Wednesday November 13th, 2013

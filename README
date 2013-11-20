@@ -1,4 +1,4 @@
-Summary: This is a simple Python module that retrieves a crontab file and
+Summary: This is a simple tool written in Python that retrieves a crontab file and
 translates each crontab line into an English representation of that line.
 
  For example:
@@ -11,12 +11,12 @@ Update:
 'CronToEnglish.py' is added and needs some retooling. Added a sandbox directory for testing modules or applications.
 
 Current Tasks for 'CronToEnglih.py':
-1) Add more functionality to module, for example, handling a cron line '*/3 * * * * command' to say 'command will run every 3 minutes' (Added on Nov 20th, 2013)
-2) Setup the module to read and extract cron lines from a cron file (Added on Nov 20th, 2013)
-3) Error handling 					      	    (Added on Nov 20th, 2013)
-4) Refactor code 					            (Added Nov 20th, 2013)
-5) Unit testing  					            (Added Nov 20th, 2013)
-6) Convert it into a Python module 			            (Added Nov 20th, 2013)
+1) Add more functionality to module, for example, handling a cron line '*/3 * * * * command' to say 'command will run every 3 minutes' 
+2) Setup the module to read and extract cron lines from a cron file 
+3) Error handling 					      	                                      
+4) Refactor code 					                                            
+5) Unit testing  					                                              
+6) Convert it into a Python module 			                              
 
 Completed Tasks:
 1) Wrote the basic functionalities that will allow the tool to convert cron lines into an English translation. (Completed Nov 20th, 2013)
